@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans';
+    padding: 10px;
+    background-color: #F2F2F2;
+}
+
+.noticia {
+    background-color: #ffffff;
+    margin-bottom: 25px;
+    box-shadow: 0px 1px 1px #000000;
+    border-radius: 0px 0px 2px 2px;
+}
+
+.noticia img {
+    width: 100%;
+}
+
+.noticia .titulo {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.noticia .local {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.noticia .quando {
+    color: #999999;
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.texto a {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #B5000D;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.texto {
+    padding: 10px;
+}
+
+.texto h2 {
+    margin-bottom: 10px;
+}
+
+.noticia p {
+    font-size: 22px;
+    color: #333333;
+}
+
+.noticia2 img {
+     width: 100%;
+}
+
+.noticia2 {
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px #000000;
+    border-radius: 0px 0px 2px 2px;
+}
+
+.noticia2 .titulo2 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.noticia2 .amostra {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.noticia2 .autor {
+    color: #999999;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.texto2 {
+    padding: 10px;
+}
+
+.texto2 a {
+    color: #B5000D;
+    background-color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 26px;
+}
+
+.noticia2 h2 {
+    margin-bottom: 10px;
+}
+
+.noticia2 p {
+    font-size: 21px;
+    color: #333333;
+}
+
+
